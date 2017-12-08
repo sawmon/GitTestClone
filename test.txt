@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 test for adding cloned repository for test
+=======
+test for adding cloned repository for test2
+>>>>>>> Stashed changes
