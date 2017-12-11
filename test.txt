@@ -5,3 +5,7 @@ test for adding cloned repository for test2
 >>>>>>> Stashed changes
 
 check for "checkout for file"
+
+check second time for "checkout for file"
+
+
